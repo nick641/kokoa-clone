@@ -1,0 +1,32 @@
+.welcome-header {
+    display: flex;
+    margin: 90px 0px;
+    flex-direction: column;
+    text-align: center;
+}
+.welcome-header__title {
+    margin-bottom: 50px;
+    font-size:30px;
+}
+.welcome-header__text {
+    opacity: 0.4;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 50px;
+}
+.login-form__input {
+    padding:15px 0px; 
+    margin-bottom: 20px;
+}
+    
+.btn {
+    padding: 15px 0px;
+    
+}
+.login-form__link {
+    text-align: center;
+    color: inherit;
+}
