@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
 @import "reset.css";
 
+/*components*/
 @import "status-bar.css";
-@import "login.css";
+
+/*screens*/
+@import "screens/login.css";
 
 
