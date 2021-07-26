@@ -8,7 +8,14 @@ margin-bottom: 10px;
 #friends-display-link i {
     color: rgba(0, 0, 0, 0.3);
 }
-
-.friends-screen {
-    padding: 0px var(--horizantal-space);
+.friends-screen__channel {
+    margin-top: 25px;
+}
+.friends-screen__channel-header {
+    padding-bottom: 20px;
+}
+.friends-screen__channel-header {
+    display: flex;
+    justify-content: space-between;
+    color: rgba(0, 0, 0, 0.5);
 }
