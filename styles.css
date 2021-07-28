@@ -8,14 +8,16 @@
 @import "css/components/user-component.css";
 @import "css/components/badge.css";
 @import "css/components/point.css";
-@import "css/components/icon-row.css";
 @import "css/components/alt-screen-header.css";
+@import "css/components/icon-row.css";
+
 /*screens*/
 @import "css/screens/login.css";
 @import "css/screens/find.css";
 @import "css/screens/friends.css";
 @import "css/screens/more.css";
+@import "css/screens/chat.css";
 @import "css/screens/settings.css"; 
-@import "css/screens/chat.css"; 
+
 
 
